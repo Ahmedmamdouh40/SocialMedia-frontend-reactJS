@@ -1,0 +1,23 @@
+.post{
+    width: 70%;
+    margin:auto;
+    margin-top: 1%;
+}
+
+.add {
+    width: 70%;
+    margin: 8px auto 16px;
+    text-align: right;
+}
+.btn{
+    color: white;
+}
+.btn:hover{
+    color:white
+}
+
+.serach{
+    width: 70%;
+    margin:  auto ;
+    text-align: left;
+}
